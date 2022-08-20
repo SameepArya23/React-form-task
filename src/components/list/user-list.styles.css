@@ -1,0 +1,27 @@
+.span-container{
+    margin-right: 20px;
+}
+
+.span-head{
+    font-size: medium;
+    font-weight: 500;
+}
+
+.list{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    padding: 10px;
+    margin: 20px 0;
+    background-color: rgb(238, 238, 238);
+    border-radius: 8px;
+    border: 1px solid rgb(167, 167, 167);
+}
+
+h4{
+    font-size: medium;
+}
+
+.details{
+    margin: 6px 3px;
+}
